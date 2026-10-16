@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "cupy-xarray",
+  "versions": [
+    {
+      "commit": "9f01df09fb23c48d22024404321447c4158e82e8",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:24:38.133723+00:00"
+    }
+  ]
+}
