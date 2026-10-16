@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/xarray-contrib/cupy-xarray/commit/9f01df09fb23c48d22024404321447c4158e82e8",
       "git:hexsha": "9f01df09fb23c48d22024404321447c4158e82e8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/xarray-contrib/cupy-xarray/commit/460b66787bdb13821ce7fa0ee14e62117b0c198e",
